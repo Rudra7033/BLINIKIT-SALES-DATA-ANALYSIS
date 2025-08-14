@@ -45,3 +45,4 @@ The dataset includes the following columns:
 
 - **Interactive Dashboards:** Dynamic Power BI dashboards visualizing key metrics, including total sales, average sales, average ratings, and the impact of fat content.
 - **Detailed Analysis:** Uses sql for data preparation and Power BI for advanced visualizations to uncover trends and patterns.
+<img width="1335" height="761" alt="BlinkIt sales Analysis" src="https://github.com/user-attachments/assets/b26d5c29-f975-41e8-8164-0d319babeebb" />
