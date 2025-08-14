@@ -2,7 +2,8 @@
 
 ## Overview
 
-This project provides a comprehensive analysis of Blinkit’s eCommerce sales data using Power BI and Excel. The goal is to convert raw data into actionable insights through interactive visualizations, focusing on key performance indicators (KPIs) and detailed data exploration.
+ To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to 
+identify key insights and opportunities for optimization using various KPIs using sql and visualizations in Power BI.
 
 ## Dataset
 
@@ -43,4 +44,4 @@ The dataset includes the following columns:
 ## Project Features
 
 - **Interactive Dashboards:** Dynamic Power BI dashboards visualizing key metrics, including total sales, average sales, average ratings, and the impact of fat content.
-- **Detailed Analysis:** Uses Excel for data preparation and Power BI for advanced visualizations to uncover trends and patterns.
+- **Detailed Analysis:** Uses sql for data preparation and Power BI for advanced visualizations to uncover trends and patterns.
